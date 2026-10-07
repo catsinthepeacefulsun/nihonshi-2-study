@@ -1,0 +1,15 @@
+{
+  "name": "歴史検定 日本史2級 学習帳",
+  "short_name": "日本史2級",
+  "description": "歴史能力検定 日本史2級の355項目を学習するPWA",
+  "start_url": "./index.html?v=2",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#203864",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
